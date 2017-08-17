@@ -1,7 +1,12 @@
-
-.circles-parent {
-  text-align:center;
-}
-.circle {
-  background:green; border-radius:50%; display:inline-block; margin:0 15px;
-}
+ .bio {
+   text-align: center;
+   float: left;
+  }
+  
+.bio img {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    display: inline-block;
+    margin: 0 15px;
+  }
