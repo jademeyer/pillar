@@ -4,11 +4,11 @@
   
 .bio {
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 60px;
 }
 
 img {
-    height: 150px;
-    width: 150px;
+    height: 275px;
+    width: 275px;
     border-radius: 50%;
 }
