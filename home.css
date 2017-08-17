@@ -1,0 +1,12 @@
+.bios div {
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+.bios img {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  display: block;
+  margin-top: 100px;
+}
