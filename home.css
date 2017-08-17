@@ -1,9 +1,9 @@
-.bios div {
+.bio {
   text-align: center;
   float: left;
 }
 
-.bios img {
+.bio img {
   height: 50px;
   width: 50px;
   border-radius: 100%;
