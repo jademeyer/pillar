@@ -4,9 +4,7 @@
 }
 
 .bio img {
-  height: 50px;
-  width: 50px;
-  border-radius: 100%;
+  border-radius: 50%;
   display: inline-block;
-  margin-top: 100px;
+  margin: 0 15px;
 }
