@@ -2,10 +2,13 @@
    text-align: center;
   }
   
+.bio {
+    display: inline-block;
+    margin: 0 15px;
+  }
+
 .bio img {
     height: 350px;
     width: 350px;
     border-radius: 100%;
-    display: inline-block;
-    margin: 0 auto;
-  }
+}
