@@ -33,35 +33,46 @@ body {
     display: none;
 }
 
-#background {
-  width: 100%;
-  height:100px;
-  background-image: url(https://cdn.pixabay.com/photo/2015/12/13/09/42/banner-1090835__340.jpg);
-  background-position: center;
-}
-
  .bios {
    text-align: center;
-   font-family:"Georgia";
+   font-family:'Quicksand', sans-serif;;
    color: white;
   }
   
 .bio {
     display: inline-block;
     margin: 0 60px;
+
+}
+
+.text {
+    background: rgba(0, 0, 0, 0.05);
+    padding-top: 1px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 15%;
+    margin-top: 20px;
+    width: 275px;
 }
 
 .bio img {
-    height: 275px;
-    width: 275px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
     margin-top: 100px;
 }
 
 .bio h3 {
-  font-size: 40px
+  font-size: 35px;
+  opacity: 1;
 }
 
 .bio p {
   font-size: 20px;
+  opacity: 1;
 }
+
+
+
+
