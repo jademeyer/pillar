@@ -33,8 +33,6 @@ body {
     display: none;
 }
 
-* {box-sizing:border-box}
-
  .bios {
    text-align: center;
    font-family:'Quicksand', sans-serif;;
@@ -42,9 +40,10 @@ body {
   }
   
 .bio {
-    display: inline-block;
+    margin-top: 100px;
     margin-left: 50px;
     margin-right: 50px;
+    float:left;
 }
 
 .text {
@@ -56,7 +55,7 @@ body {
     margin-top: 20px;
     border-radius: 5%;
     height: 500px;
-    width: 275px;
+    width: 325px;
 }
 
 .bio img {
