@@ -50,8 +50,8 @@ body {
   color: black;
   background-color: white;
   height: 300px;
-  width: 100%;
-  position: absolute;
+  width: 900px;
+  display: inline-block;
   z-index: -1;
   font-size: 30px;
 }
