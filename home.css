@@ -46,14 +46,12 @@ body {
 
 .blurb {
   border: 5px solid rgb(254, 129, 143);
-  border-radius: 10%;
   margin-top: 353px;
   color: black;
   background-color: white;
   height: 300px;
-  width: 90%;
+  width: 100%;
   position: absolute;
-  display: inline-block;
   z-index: -1;
   font-size: 30px;
 }
@@ -73,11 +71,9 @@ body {
   margin-top: 663px;
   background-color: rgba(0,0,0, 0.2);
   height: 600px;
-  width: 90%;
+  width: 100%;
   position: absolute;
-  display: inline-block;
   z-index: -1;
-  border-radius: 10%;
 }
 
 .stats h3 {
