@@ -68,11 +68,39 @@ body {
   font-size: 40px;
 }
 
+.stats {
+  margin-top: 663px;
+  background-color: rgba(0,0,0, 0.2);
+  height: 600px;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+.stats #text {
+  padding-top: 50px;
+}
+
+.stats h3 {
+  font-size: 60px;
+}
+
+.stats ul {
+  display: inline-block;
+  font-size: 30px;
+  width: 700px;
+}
+
+.stats li{
+  text-align: left;
+  margin-top: 30px;
+}
+
 .bios {
  text-align: center;
  font-family:'Quicksand', sans-serif;;
  color: white;
- margin-top: 600px;
+ margin-top: 1163px;
  display: inline-block;
 }
   
@@ -83,7 +111,7 @@ body {
     padding-right: 60px;
 }
 
-.text {
+.bio #text {
     padding-top: 1px;
     padding-bottom: 25px;
     margin-top: 20px;
@@ -117,7 +145,7 @@ html {
 main {
   z-index: 1;
   position: relative;
-  height: 1750px;
+  height: 2250px;
   width: 100%;
   background: url("http://elitefon.ru/large/201302/33938.jpg") no-repeat scroll center center/cover transparent;
   background-color:#b06466;
