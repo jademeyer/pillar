@@ -44,7 +44,7 @@ body {
   width: auto;
 }
 
-.blurb {
+#blurb {
   border: 5px solid rgb(254, 129, 143);
   margin-top: 353px;
   color: black;
@@ -56,13 +56,13 @@ body {
   font-size: 30px;
 }
 
-.blurb p {
+#blurb p {
   padding-top: 40px;
   width: 800px;
   display: inline-block;
 }
 
-.blurb span {
+#blurb span {
   color: rgb(254, 129, 143);
   font-size: 40px;
 }
