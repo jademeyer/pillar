@@ -47,7 +47,7 @@ body {
 .blurb {
   border-top: 5px solid rgb(254, 129, 143);
   border-bottom: 5px solid rgb(254, 129, 143);
-  margin-top: 363px;
+  margin-top: 353px;
   color: black;
   background-color: white;
   height: 300px;
@@ -77,12 +77,10 @@ body {
   z-index: -1;
 }
 
-.stats #text {
-  padding-top: 50px;
-}
-
 .stats h3 {
   font-size: 60px;
+  margin-bottom: 0px;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .stats ul {
@@ -145,7 +143,7 @@ html {
 main {
   z-index: 1;
   position: relative;
-  height: 2250px;
+  height: 3000px;
   width: 100%;
   background: url("http://elitefon.ru/large/201302/33938.jpg") no-repeat scroll center center/cover transparent;
   background-color:#b06466;
@@ -245,6 +243,3 @@ footer h3 {
   -webkit-animation: bounce 2s infinite;
   animation: bounce 2s infinite;
 }
-
-
-
