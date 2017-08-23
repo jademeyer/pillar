@@ -45,13 +45,12 @@ body {
 }
 
 .blurb {
-  border-top: 5px solid rgb(254, 129, 143);
-  border-bottom: 5px solid rgb(254, 129, 143);
+  border: 5px solid rgb(254, 129, 143);
   margin-top: 353px;
   color: black;
   background-color: white;
   height: 300px;
-  width: 100%;
+  width: 90%;
   position: absolute;
   z-index: -1;
   font-size: 30px;
@@ -72,7 +71,7 @@ body {
   margin-top: 663px;
   background-color: rgba(0,0,0, 0.2);
   height: 600px;
-  width: 100%;
+  width: 90%;
   position: absolute;
   z-index: -1;
 }
