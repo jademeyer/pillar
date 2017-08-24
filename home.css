@@ -40,13 +40,13 @@ body {
 
 #pillaricon {
   margin-top: 175px;
-  height: 20px;
+  height: 40px;
   width: auto;
 }
 
 #blurb {
   border: 5px solid rgb(254, 129, 143);
-  margin-top: 45%;
+  margin-top: 25%;
   color: black;
   background-color: white;
   height: 300px;
