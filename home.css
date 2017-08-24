@@ -74,10 +74,10 @@ body {
 
 #checkitout {
   border: 5px solid rgb(254, 129, 143);
-  margin-top: 785px;
+  margin-top: 800px;
   color: black;
   background-color: white;
-  height: 100px;
+  height: 120px;
   width: 450px;
   display: inline-block;
   z-index: -1;
