@@ -53,7 +53,7 @@ body {
   border: 5px solid rgb(254, 129, 143);
   margin-top: 225px;
   color: black;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(255,255,255,0.5);
   height: 300px;
   width: 900px;
   display: inline-block;
@@ -76,7 +76,7 @@ body {
   border: 5px solid rgb(254, 129, 143);
   margin-top: 850px;
   color: black;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(255,255,255,0.5);
   height: 120px;
   width: 400px;
   display: inline-block;
@@ -122,25 +122,24 @@ body {
 }
 
 #line {
-  margin-top: 75px;
+  margin-top: 150px;
   text-align: center;
   display: inline-block;
   height: 10px;
   border-radius: 25%;
   width: 400px;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(255,255,255,0.5);
 }
 
 .bios {
  text-align: center;
  font-family:'Quicksand', sans-serif;;
  color: white;
- margin-top: 75px;
+ margin-top: 150px;
  display: inline-block;
 }
   
 .bio {
-    margin-top: 100px;
     float:left;
     padding-left: 60px;
     padding-right: 60px;
