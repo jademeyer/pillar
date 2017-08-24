@@ -74,7 +74,7 @@ body {
 
 #checkitout {
   border: 5px solid rgb(254, 129, 143);
-  margin-top: 75px;
+  margin-top: 475px;
   color: black;
   background-color: white;
   height: 90px;
@@ -84,6 +84,7 @@ body {
 }
 
 #checkitout p {
+  padding-bottom: 10px;
   display: inline-block;
   font-size: 35px;
 }
