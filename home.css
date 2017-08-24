@@ -78,7 +78,7 @@ body {
   border: 5px solid rgb(254, 129, 143);
   position: absolute;
   margin-top: 850px;
-  margin-left: 600px;
+  margin-left: 400px;
   color: black;
   background-color: white;
   height: 120px;
@@ -127,7 +127,7 @@ body {
 
 #line {
   position: absolute;
-  margin-left: 600px;
+  margin-left: 400px;
   margin-top: 125px;
   text-align: center;
   float: left;
