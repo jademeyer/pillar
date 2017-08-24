@@ -104,19 +104,6 @@ body {
   margin-top: 30px;
 }
 
-.slideshow {
-  position: absolute;
-  display: inline-block;
-  text-align: center;
-  margin-top: 900px;
-  margin-right: auto;
-  margin-left: auto;
-  height: 778px;
-  width: 70%;
-  border: 5px solid rgb(254, 129, 143);
-  background-color: white;
-}
-
 .bios {
  text-align: center;
  font-family:'Quicksand', sans-serif;;
