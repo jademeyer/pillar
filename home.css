@@ -107,11 +107,12 @@ body {
 .slideshow {
   position: absolute;
   display: inline-block;
+  text-align: center;
   margin-top: 900px;
   margin-right: auto;
   margin-left: auto;
-  height: 130%;
-  width: 130%;
+  height: 50%;
+  width: 50%;
   border: 5px solid rgb(254, 129, 143);
   background-color: white;
 }
