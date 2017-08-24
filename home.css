@@ -39,15 +39,14 @@ body {
 }
 
 #pillaricon {
-  margin-top: 50%;
-  height: 75px;
+  margin-top: 300px;
+  height: 200%;
   width: auto;
-  position: relative;
 }
 
 #blurb {
   border: 5px solid rgb(254, 129, 143);
-  margin-top: 25%;
+  margin-top: 15%;
   color: black;
   background-color: white;
   height: 300px;
