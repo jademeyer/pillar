@@ -39,9 +39,10 @@ body {
 }
 
 #pillaricon {
-  margin-top: 175px;
-  height: 40px;
+  margin-top: 50%;
+  height: 75px;
   width: auto;
+  position: relative;
 }
 
 #blurb {
