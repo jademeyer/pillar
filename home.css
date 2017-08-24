@@ -77,8 +77,8 @@ body {
 #checkitout {
   border: 5px solid rgb(254, 129, 143);
   position: absolute;
-  margin-top: 1350px;
-  margin-left: 1%;
+  margin-top: 1325px;
+  margin-left: 300px;
   color: black;
   background-color: white;
   height: 120px;
@@ -127,8 +127,8 @@ body {
 
 #line {
   position: absolute;
-  margin-left: 5%;
-  margin-top: 1850px;
+  margin-left: 300px;
+  margin-top: 1725px;
   text-align: center;
   display: inline-block;
   height: 5px;
