@@ -77,11 +77,11 @@ body {
   margin-top: 775px;
   color: black;
   background-color: white;
-  height: 90px;
+  height: 120px;
   width: 450px;
   display: inline-block;
   z-index: -1;
-  padding-top: 5px;
+  padding-top: 0px;
 }
 
 #checkitout p {
