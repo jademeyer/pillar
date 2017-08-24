@@ -39,8 +39,8 @@ body {
 }
 
 #pillaricon {
-  margin-top: 20%;
-  height: auto;
+  margin-top: 18%;
+  height: 100px;
   width: auto;
 }
 
@@ -51,7 +51,6 @@ body {
 
 #blurb {
   border: 5px solid rgb(254, 129, 143);
-  margin-top: -15%;
   color: black;
   background-color: white;
   height: 300px;
