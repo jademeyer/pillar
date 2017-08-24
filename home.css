@@ -81,10 +81,10 @@ body {
   width: 450px;
   display: inline-block;
   z-index: -1;
+  padding-top: 5px;
 }
 
 #checkitout p {
-  padding-bottom: 10px;
   display: inline-block;
   font-size: 35px;
 }
