@@ -50,7 +50,7 @@ body {
 }
 
 #blurb {
-  position: absolute;
+  position: relative;
   border: 5px solid rgb(254, 129, 143);
   color: black;
   background-color: white;
