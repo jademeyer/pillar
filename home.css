@@ -56,8 +56,7 @@ body {
   height: 300px;
   width: 900px;
   display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   z-index: -1;
   font-size: 30px;
 }
@@ -76,6 +75,7 @@ body {
 #checkitout {
   border: 5px solid rgb(254, 129, 143);
   margin-top: 850px;
+  margin: 0 auto;
   color: black;
   background-color: white;
   height: 120px;
