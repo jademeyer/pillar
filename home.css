@@ -53,7 +53,7 @@ body {
   border: 5px solid rgb(254, 129, 143);
   margin-top: 225px;
   color: black;
-  background-color: rgba(255,255,255,0.5);
+  background-color: white;
   height: 300px;
   width: 900px;
   display: inline-block;
@@ -76,7 +76,7 @@ body {
   border: 5px solid rgb(254, 129, 143);
   margin-top: 850px;
   color: black;
-  background-color: rgba(255,255,255,0.5);
+  background-color: white;
   height: 120px;
   width: 400px;
   display: inline-block;
@@ -126,9 +126,9 @@ body {
   text-align: center;
   display: inline-block;
   height: 10px;
-  border-radius: 25%;
+  border-radius: 10%;
   width: 400px;
-  background-color: rgba(255,255,255,0.5);
+  background-color: white;
 }
 
 .bios {
@@ -178,7 +178,7 @@ html {
 main {
   z-index: 1;
   position: relative;
-  height: 3000px;
+  height: 3500px;
   width: 100%;
   background: url("http://elitefon.ru/large/201302/33938.jpg") no-repeat scroll center center/cover transparent;
   background-color:#b06466;
